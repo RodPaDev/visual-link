@@ -4,6 +4,8 @@ VisuaLink is an interactive website for aspiring software engineers, to visualiz
 
 This project is under development and will be coming to your local google searches soon 🚀
 
+[Research Document](https://docs.google.com/document/d/1-k6oKl4wDBx7bkoT7yxXhFJ01QDU6wXEA12JU-15BfI/edit?usp=sharing)
+
 # Getting Started
 
 You can get started by running:
