@@ -30,10 +30,10 @@ The hardest part will be definitely find out a way to use a Linked List as state
 
 ## Plan
 
-[x] - Visual Representation (VR) of Node  
-[ ] - VR of Arrows connecting Nodes  
-[ ] - Render VR of Linked List based on Linked List  
-[ ] - Create VR of Node using using events  
-[ ] - Delete VR of Node using events  
-[ ] - Create several interactive animations for different operations  
+- [x] Visual Representation (VR) of Node  
+- [ ] VR of Arrows connecting Nodes  
+- [ ] Render VR of Linked List based on Linked List  
+- [ ] Create VR of Node using using events  
+- [ ] Delete VR of Node using events  
+- [ ] Create several interactive animations for different operations  
 
